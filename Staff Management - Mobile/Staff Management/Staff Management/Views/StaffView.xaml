@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Staff_Management.Views.StaffView">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Frame BackgroundColor="Salmon" Padding="0">
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="95"></ColumnDefinition>
+                        <ColumnDefinition Width="95"></ColumnDefinition>
+                        <ColumnDefinition Width="95"></ColumnDefinition>
+                        <ColumnDefinition Width="95"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="0" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="1" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="2" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="3" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                    <Label Grid.Row="0" Grid.Column="0" HorizontalOptions="Center">First Name</Label>
+                    <Label Grid.Row="0" Grid.Column="1" HorizontalOptions="Center">Last Name</Label>
+                    <Label Grid.Row="0" Grid.Column="2" HorizontalOptions="Center">Cell Phone</Label>
+                    <Label Grid.Row="0" Grid.Column="3" HorizontalOptions="Center">IRD Number</Label>
+
+                </Grid>
+
+            </Frame>
+            <ListView x:Name="listViewStaff" ItemsSource="{Binding StaffDto}">
+
+                <ListView.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <ViewCell>
+
+                            <Frame BorderColor="LightSalmon" Padding="0">
+
+                                <Grid>
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="95"></ColumnDefinition>
+                                        <ColumnDefinition Width="95"></ColumnDefinition>
+                                        <ColumnDefinition Width="95"></ColumnDefinition>
+                                        <ColumnDefinition Width="95"></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+
+                                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="0" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="1" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="2" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                                    <BoxView WidthRequest="1" Grid.Row="0" Grid.Column="3" 
+                             BackgroundColor="LightSkyBlue" HorizontalOptions="EndAndExpand" VerticalOptions="FillAndExpand" />
+
+                                    <Label Grid.Row="0" HorizontalOptions="Center" Grid.Column="0" Text="{Binding FirstName}"></Label>
+                                    <Label Grid.Row="0" HorizontalOptions="Center" Grid.Column="1" Text="{Binding LastName}"></Label>
+                                    <Label Grid.Row="0" HorizontalOptions="Center" Grid.Column="2" Text="{Binding CellPhone}"></Label>
+                                    <Label Grid.Row="0" HorizontalOptions="Center" Grid.Column="3" Text="{Binding Irdnumber}"></Label>
+                                    
+                                    
+                                </Grid>
+                                
+                                
+                            </Frame>
+                            
+                            
+                        </ViewCell>
+                        
+                        
+                    </DataTemplate>
+                    
+                    
+                </ListView.ItemTemplate>
+                
+                
+            </ListView>
+            
+            
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

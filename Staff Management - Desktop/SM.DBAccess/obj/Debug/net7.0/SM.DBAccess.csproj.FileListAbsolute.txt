@@ -1,0 +1,51 @@
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.deps.json
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.runtimeconfig.json
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.CopyComplete
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\refint\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.genruntimeconfig.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\ref\SM.DBAccess.dll
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.deps.json
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.runtimeconfig.json
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.AssemblyReference.cache
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.AssemblyInfoInputs.cache
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.AssemblyInfo.cs
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.CopyComplete
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\refint\SM.DBAccess.dll
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.genruntimeconfig.cache
+D:\Projects\Staff Management\Staff Management\SM.DBAccess\obj\Debug\net7.0\ref\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.deps.json
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.runtimeconfig.json
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\bin\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.csproj.CopyComplete
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\refint\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\SM.DBAccess.genruntimeconfig.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.DBAccess\obj\Debug\net7.0\ref\SM.DBAccess.dll

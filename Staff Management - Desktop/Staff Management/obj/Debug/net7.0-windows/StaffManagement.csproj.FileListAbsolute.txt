@@ -1,0 +1,442 @@
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportViewerExportLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportViewerWebReportSourceLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisCommLayerLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisRequestModelLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalClientDocLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.EMFGENLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsCubeDefModelLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsDataDefModelLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsDTSAgentLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.PAGEOBJECTMODELLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalPrintControlLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsObjectFactoryLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsReportDefModelLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsControllersLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.exe
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.deps.json
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.runtimeconfig.json
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\itextsharp.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\XAct.Core.PCL.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.Model.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.BusinessLogic.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.Model.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.PROMPTINGLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CRReportPromptEMFLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.SAXSERIALIZELib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.VLELib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CRQUERYENGINE.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.ResolveComReference.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.AddStaff.resources
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.Login.resources
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.StaffList.resources
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.StaffReport.resources
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.GenerateResource.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.CopyComplete
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\refint\StaffManagement.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.genruntimeconfig.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\ref\StaffManagement.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.AssemblyReference.cache
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportViewerExportLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportViewerWebReportSourceLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisCommLayerLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisRequestModelLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalClientDocLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.EMFGENLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsCubeDefModelLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsDataDefModelLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsDTSAgentLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.PAGEOBJECTMODELLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalPrintControlLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsObjectFactoryLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.PROMPTINGLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CRReportPromptEMFLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsReportDefModelLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.SAXSERIALIZELib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.VLELib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CRQUERYENGINE.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsControllersLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.ResolveComReference.cache
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.AddStaff.resources
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.Login.resources
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.StaffList.resources
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.GenerateResource.cache
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.AssemblyInfoInputs.cache
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.AssemblyInfo.cs
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.CoreCompileInputs.cache
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\refint\StaffManagement.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.pdb
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.exe
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.deps.json
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.runtimeconfig.json
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\StaffManagement.pdb
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\itextsharp.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\XAct.Core.PCL.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.BusinessLogic.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.DBAccess.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.BusinessLogic.pdb
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.DBAccess.pdb
+D:\Projects\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\SM.Model.pdb
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.CopyComplete
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\StaffManagement.genruntimeconfig.cache
+D:\Projects\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\ref\StaffManagement.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\StaffManagement.exe
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\StaffManagement.deps.json
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\StaffManagement.runtimeconfig.json
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\StaffManagement.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\StaffManagement.pdb
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\itextsharp.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\XAct.Core.PCL.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\SM.BusinessLogic.pdb
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\bin\Debug\net7.0-windows\SM.Model.pdb
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportViewerExportLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportViewerWebReportSourceLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisCommLayerLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisRequestModelLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalAnalysisXmlSerializeLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalDocMgmtUndoManagerLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalClientDocLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.EMFGENLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsCubeDefModelLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsDataDefModelLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsDTSAgentLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.PAGEOBJECTMODELLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalPrintControlLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsObjectFactoryLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.PROMPTINGLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CRReportPromptEMFLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsReportDefModelLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.SAXSERIALIZELib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.VLELib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CRQUERYENGINE.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsControllersLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Interop.CrystalReportsLocalConnectionMgrLib.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.ResolveComReference.cache
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Staff_Management.AddStaff.resources
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Staff_Management.Login.resources
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\Staff_Management.StaffList.resources
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.GenerateResource.cache
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.csproj.CopyComplete
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\refint\StaffManagement.dll
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.pdb
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\StaffManagement.genruntimeconfig.cache
+D:\Projects\Radford\Staff Management - Desktop\Staff Management\obj\Debug\net7.0-windows\ref\StaffManagement.dll

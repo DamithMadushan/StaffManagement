@@ -1,0 +1,51 @@
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.deps.json
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.CopyComplete
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\refint\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\ref\SM.BusinessLogic.dll
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.deps.json
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.dll
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.pdb
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.AssemblyInfo.cs
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.CopyComplete
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.dll
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\refint\SM.BusinessLogic.dll
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.pdb
+D:\Projects\Staff Management\Staff Management\SM.BusinessLogic\obj\Debug\net7.0\ref\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.deps.json
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.BusinessLogic.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.DBAccess.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.DBAccess.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.csproj.CopyComplete
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\refint\SM.BusinessLogic.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\SM.BusinessLogic.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.BusinessLogic\obj\Debug\net7.0\ref\SM.BusinessLogic.dll

@@ -1,0 +1,19 @@
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Staff Management.exe
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Staff Management.deps.json
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Staff Management.runtimeconfig.json
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Staff Management.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\Staff Management.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\bin\Debug\net7.0-windows\MaterialSkin.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff_Management.Form1.resources
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.csproj.GenerateResource.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.csproj.CopyComplete
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\refint\Staff Management.dll
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.pdb
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\Staff Management.genruntimeconfig.cache
+D:\Projects\Radford\Staff Management\Staff Management\Staff Management\obj\Debug\net7.0-windows\ref\Staff Management.dll

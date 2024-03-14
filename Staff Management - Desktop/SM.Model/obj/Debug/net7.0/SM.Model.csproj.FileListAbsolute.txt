@@ -1,0 +1,36 @@
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\bin\Debug\net7.0\SM.Model.deps.json
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\refint\SM.Model.dll
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\ref\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\SM.Model\bin\Debug\net7.0\SM.Model.deps.json
+D:\Projects\Staff Management\Staff Management\SM.Model\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\SM.Model\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.csproj.AssemblyReference.cache
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.AssemblyInfoInputs.cache
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.AssemblyInfo.cs
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\refint\SM.Model.dll
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\SM.Model.pdb
+D:\Projects\Staff Management\Staff Management\SM.Model\obj\Debug\net7.0\ref\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\bin\Debug\net7.0\SM.Model.deps.json
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\bin\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\bin\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.csproj.AssemblyReference.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.AssemblyInfoInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.AssemblyInfo.cs
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\refint\SM.Model.dll
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\SM.Model.pdb
+D:\Projects\Radford\Staff Management - Desktop\SM.Model\obj\Debug\net7.0\ref\SM.Model.dll
